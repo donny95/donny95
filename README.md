@@ -1,24 +1,29 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=0033CC&height=250&section=header&text=Hello%20I'm%20Jiwon&fontSize=90&animation=fadeIn&fontColor=FFFF33)
+<br><br>
 
-<!--
-**donny95/donny95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+  <h3>  :sunflower: Intoduction  :sunflower: </h3>
+  <br>
+  안녕하세요!<br>컴퓨터비전 연구원으로 1년3개월간 재직 후, 현재는 이직 준비를 하고있는 컴퓨터비전 엔지니어 박지원 입니다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=ffff33&height=300&section=header&text=Park%20Jiwon&fontSize=90&animation=fadeIn&fontColor=dddddd"/>
+### :crystal_ball: Skills
+<!--각 언어별 로고--> 
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=donny95&theme=swift&repo=Hair_Segmentation)](https://github.com/donny95/Hair_Segmentation)
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donny95&theme=swift&show_icons=true)
+ <br><br><br><br>
+ ### :wrench: Projects
+ <br> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=donny95&theme=swift&repo=Hair_Segmentation)](https://github.com/donny95/Hair_Segmentation) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donny95&layout=compact)](https://github.com/donny95/Hair_Segmentation)
+
+</div>
+
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donny95&theme=swift&show_icons=true)
+
