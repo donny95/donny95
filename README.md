@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=ffff33&height=300&section=header&text=Park%20Jiwon&fontSize=90&animation=fadeIn&fontColor=dddddd"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=donny95&theme=swift&repo=Hair_Segmentation)](https://github.com/donny95/Hair_Segmentation)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donny95&theme=swift&show_icons=true)
