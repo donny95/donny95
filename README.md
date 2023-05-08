@@ -4,7 +4,7 @@
 <div align=center>
   <h3>  :sunflower: Intoduction  :sunflower: </h3>
   <br>
-  안녕하세요!<br>컴퓨터비전 연구원으로 1년3개월간 재직 후, 현재는 이직 준비를 하고있는 컴퓨터비전 엔지니어 박지원 입니다.
+  안녕하세요!<br>2년차 Computer Vision engineer 박지원 입니다.
 
 
 <br><br><br><br>
