@@ -13,18 +13,17 @@
   여러 분야의 task에 맞는 모델을 찾아 연구하고, 성능을 고도화하는 작업을 진행하고 있습니다.
   
   <br>
-  다른 팀원 분들과의 원활한 커뮤니케이션을 통해 상황에 맞는 최고의 성능을 도출해내기 위해 노력합니다.
+  동료분들과의 원활한 커뮤니케이션을 통해 상황에 맞는 최고의 성능을 도출해내기 위해 노력합니다.
   
 
-<br><br><br>
+<br>
 
 ### :crystal_ball: Skills
+
 <!--각 언어별 로고--> 
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
-
- <br><br><br><br>
- ### :wrench:
-
+ <br>
+<br>
