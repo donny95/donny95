@@ -1,8 +1,8 @@
-<-- ![header](https://capsule-render.vercel.app/api?type=rect&color=0033CC&height=250&section=header&text=Hello%20I'm%20Jiwon&fontSize=90&animation=fadeIn&fontColor=FFFF33) --!>
+<--! ![header](https://capsule-render.vercel.app/api?type=rect&color=0033CC&height=250&section=header&text=Hello%20I'm%20Jiwon&fontSize=90&animation=fadeIn&fontColor=FFFF33) --!>
 <br><br>
 
 <div align=center>
-  <h3>  :sunflower: Intoduction  :sunflower: </h3>
+  <h3> Intoduction </h3>
   <br>
   안녕하세요!<br>2년차 인공지능 개발자 박지원 입니다.<br>
   Object Detection, Segmentation, skeleteon detection 등 Computer Vsion Task에 대해 개발한 경험이 있습니다.<br><br>
