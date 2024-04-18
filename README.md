@@ -7,9 +7,9 @@
   안녕하세요. <br>
   2년차 인공지능 개발자 박지원 입니다.<br>
   
-  Object Detection, Segmentation, skeleteon detection 등 Computer Vsion Task에 대해 개발한 경험이 있습니다.<br><br>
-  최근 Audio 음성신호를 통한 감정 분류 모델 개발을 진행하였으며, 음성신호를 관련 개발을 연구하고 있습니다.<br>
-  음성을 활용한 분류 모델 외에도 STT TTS 음성합성 분야의 프로젝트를 진행했습니다.
+  Object Detection, Segmentation, skeleteon detection 등 Computer Vsion Task 개발을 진행했습니다.<br><br>
+  또한 최근 Audio 음성신호를 통한 감정 분류 모델 개발을 진행하였습니다.<br>
+  음성을 활용한 분류 모델 외에도 STT TTS 음성합성 분야의 프로젝트를 연구중입니다.
   <br>
   <br>
  
